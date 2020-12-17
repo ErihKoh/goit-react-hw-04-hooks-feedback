@@ -1,0 +1,21 @@
+.setBtn {
+  display: flex;
+  justify-content: center;
+  margin: -10x;
+}
+
+.optionsBtn {
+  width: 70px;
+  height: 30px;
+  margin: 10px;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  background-color: #ffe4b5;
+  cursor: pointer;
+}
+
+.optionsBtn:hover {
+  background-color: #00bfff;
+  color: #fff;
+}
